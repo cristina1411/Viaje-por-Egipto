@@ -1,0 +1,1441 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260416220306NBKE1O</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260416220306D9LUKL</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>3.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>UN VIAJE POR EL ANTIGUO EGIPTO</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>CRISTINA NAVARRO COLLAZOS</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Acercar el Antiguo Egipto a los niños y niñas de 5 años a través de actividades interactivas, vídeos, juegos, herramientas digitales y secuencias didácticas adaptadas a su nivel de desarrollo.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0-rc1</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1776365200805</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mo1tz52c-13dcmftqv</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Inicio</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Inicio</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Inicio</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo1tz52c-13dcmftqv</odePageId>
+      <odeBlockId>block-mo0kmzso-dfo7prs4k</odeBlockId>
+      <blockName>&quot;UN VIAJE A LA TIERRA DE LOS FARAONES&quot;</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo1tz52c-13dcmftqv</odePageId>
+          <odeBlockId>block-mo0kmzso-dfo7prs4k</odeBlockId>
+          <odeIdeviceId>idevice-mo0kmzso-ebo2rzayc</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p> ¡Hola, exploradores! <br />¿Estáis preparados para un viaje mágico a un lugar muy lejano y antiguo? </p>
+<p>Vamos a viajar con la imaginación a Egipto, una tierra llena de pirámides enormes, reyes llamados faraones, dibujos raros llamados jeroglíficos, y animales como cocodrilos y camellos. ¡Será como ir a un cuento de aventuras!</p>
+<p>Durante estos días, vamos a descubrir muchas cosas sobre los egipcios:</p>
+<p>Cómo vivían,<br />Qué comían,<br />Cómo se vestían,<br />Y cómo escribían con símbolos.<br />Usaremos vídeos, cuentos, canciones y juegos para aprender, y haremos muchas actividades divertidas juntos. </p>
+<p>Además, al final del viaje:</p>
+<p>Haremos dibujos y murales para enseñar lo que hemos aprendido. <br />Y grabaremos un pequeño teatro en vídeo donde jugaremos a ser faraones, dioses, momias o exploradores. <br />¡Vamos a aprender, jugar y divertirnos mucho en este viaje al Antiguo Egipto!<br />¡Preparad las mochilas, que empieza la aventura! </p>
+<p><iframe width="640" height="480" src="https://drive.google.com/file/d/1WSvR5Ma5n1t5izTnSfZiOv1dwsUvgnJo/preview" allow="autoplay"></iframe></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mo0kmzso-ebo2rzayc","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p> ¡Hola, exploradores! <br />¿Estáis preparados para un viaje mágico a un lugar muy lejano y antiguo? </p>\n<p>Vamos a viajar con la imaginación a Egipto, una tierra llena de pirámides enormes, reyes llamados faraones, dibujos raros llamados jeroglíficos, y animales como cocodrilos y camellos. ¡Será como ir a un cuento de aventuras!</p>\n<p>Durante estos días, vamos a descubrir muchas cosas sobre los egipcios:</p>\n<p>Cómo vivían,<br />Qué comían,<br />Cómo se vestían,<br />Y cómo escribían con símbolos.<br />Usaremos vídeos, cuentos, canciones y juegos para aprender, y haremos muchas actividades divertidas juntos. </p>\n<p>Además, al final del viaje:</p>\n<p>Haremos dibujos y murales para enseñar lo que hemos aprendido. <br />Y grabaremos un pequeño teatro en vídeo donde jugaremos a ser faraones, dioses, momias o exploradores. <br />¡Vamos a aprender, jugar y divertirnos mucho en este viaje al Antiguo Egipto!<br />¡Preparad las mochilas, que empieza la aventura! </p>\n<p><iframe width=\"640\" height=\"480\" src=\"https://drive.google.com/file/d/1WSvR5Ma5n1t5izTnSfZiOv1dwsUvgnJo/preview\" allow=\"autoplay\"></iframe></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo1tz52g-2ehrby86a</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Curación de contenidos</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Curación de contenidos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Curación de contenidos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo1tz52g-2ehrby86a</odePageId>
+      <odeBlockId>block-mo0kmzsp-wbzsm66f5</odeBlockId>
+      <blockName>🔍 ¡Exploramos y elegimos lo mejor!</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo1tz52g-2ehrby86a</odePageId>
+          <odeBlockId>block-mo0kmzsp-wbzsm66f5</odeBlockId>
+          <odeIdeviceId>idevice-mo0kmzsp-hwjhji4tq</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/maxresdefault.jpg" width="905" height="509" alt="" /></p>
+<p><br /> Nuestros recursos</p>
+<p>¡Hola, amigos y amigas! </p>
+<p>Antes de empezar a jugar y aprender sobre Egipto, la seño ha buscado por internet un montón de cosas chulas para nosotros.</p>
+<p>Podremos ver vídeos, cuentos, juegos, canciones y dibujos. ¡Todo sobre Egipto! </p>
+<p>Todo está preparado para que tú lo entiendas bien, y además es seguro y fácil de usar.<br />¡Solo tienes que hacer clic en las cosas que te interesen y dejarte llevar por la magia del Antiguo Egipto! </p>
+<p>Aquí tienes vídeos, cuentos, canciones y juegos para aprender mientras te diviertes. Haz clic en los cuadritos del panel para explorar. </p>
+<p><iframe width="100%" height="600" src="https://www.symbaloo.com/embed/el-antiguo-egipto-xbuq" frameborder="0" allowfullscreen="allowfullscreen"></iframe><img src="{{context_path}}/content/resources/Captura de pantalla_16-4-2026_112526_padlet.com.jpeg" width="1240" height="588" alt="" /></p>
+<p style="font-size: 18px;"><br /></p>
+<p><br /></p>
+<p><br /></p>
+<p>                                                                                     </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mo0kmzsp-hwjhji4tq","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/maxresdefault.jpg\" width=\"905\" height=\"509\" alt=\"\" /></p>\n<p><br /> Nuestros recursos</p>\n<p>¡Hola, amigos y amigas! </p>\n<p>Antes de empezar a jugar y aprender sobre Egipto, la seño ha buscado por internet un montón de cosas chulas para nosotros.</p>\n<p>Podremos ver vídeos, cuentos, juegos, canciones y dibujos. ¡Todo sobre Egipto! </p>\n<p>Todo está preparado para que tú lo entiendas bien, y además es seguro y fácil de usar.<br />¡Solo tienes que hacer clic en las cosas que te interesen y dejarte llevar por la magia del Antiguo Egipto! </p>\n<p>Aquí tienes vídeos, cuentos, canciones y juegos para aprender mientras te diviertes. Haz clic en los cuadritos del panel para explorar. </p>\n<p><iframe width=\"100%\" height=\"600\" src=\"https://www.symbaloo.com/embed/el-antiguo-egipto-xbuq\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe><img src=\"{{context_path}}/content/resources/Captura de pantalla_16-4-2026_112526_padlet.com.jpeg\" width=\"1240\" height=\"588\" alt=\"\" /></p>\n<p style=\"font-size: 18px;\"><br /></p>\n<p><br /></p>\n<p><br /></p>\n<p>                                                                                     </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo1tz52h-s401f2rt3</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Licencia y seguridad</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Licencia y seguridad</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Licencia y seguridad</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo1tz52h-s401f2rt3</odePageId>
+      <odeBlockId>block-mo0kmzsp-64xutydux</odeBlockId>
+      <blockName>🔐 ¡Cuida tus datos y navega seguro!</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo1tz52h-s401f2rt3</odePageId>
+          <odeBlockId>block-mo0kmzsp-64xutydux</odeBlockId>
+          <odeIdeviceId>idevice-mo0kmzsp-w5kv3ingi</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Cuando usamos el ordenador o la tablet para aprender, jugar o ver vídeos, también tenemos que aprender a hacerlo de forma segura. ¡Igual que nos ponemos el cinturón en el coche o miramos antes de cruzar la calle! </p>
+<p>Hemos preparado un cartel muy chulo con dibujos y consejos mágicos para usar internet con cuidado.<br /><br /></p>
+<p><img src="{{context_path}}/content/resources/Infografía de seguridad en el uso de internet ilustrativo negro y naranja  (1).png" width="800" height="2000" alt="Infografía" /></p>
+<div class="padlet-embed" style="border: 1px solid rgba(0,0,0,0.1); border-radius: 2px; box-sizing: border-box; overflow: hidden; position: relative; width: 100%; background: #F4F4F4;">
+<div style="display: flex; align-items: center; justify-content: end; margin: 0; height: 28px;">
+<div style="display: flex; align-items: center;"><br /></div>
+</div>
+</div>
+<p><br /><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mo0kmzsp-w5kv3ingi","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Cuando usamos el ordenador o la tablet para aprender, jugar o ver vídeos, también tenemos que aprender a hacerlo de forma segura. ¡Igual que nos ponemos el cinturón en el coche o miramos antes de cruzar la calle! </p>\n<p>Hemos preparado un cartel muy chulo con dibujos y consejos mágicos para usar internet con cuidado.<br /><br /></p>\n<p><img src=\"{{context_path}}/content/resources/Infografía de seguridad en el uso de internet ilustrativo negro y naranja  (1).png\" width=\"800\" height=\"2000\" alt=\"Infografía\" /></p>\n<div class=\"padlet-embed\" style=\"border: 1px solid rgba(0,0,0,0.1); border-radius: 2px; box-sizing: border-box; overflow: hidden; position: relative; width: 100%; background: #F4F4F4;\">\n<div style=\"display: flex; align-items: center; justify-content: end; margin: 0; height: 28px;\">\n<div style=\"display: flex; align-items: center;\"><br /></div>\n</div>\n</div>\n<p><br /><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo1tz52i-j6hykjai4</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>GUÍA DIDÁCTICA</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>GUÍA DIDÁCTICA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>GUÍA DIDÁCTICA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo1tz52i-j6hykjai4</odePageId>
+      <odeBlockId>block-mo0kmzsp-u59zpjew0</odeBlockId>
+      <blockName>📘 Nuestra guía para aprender sobre Egipto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo1tz52i-j6hykjai4</odePageId>
+          <odeBlockId>block-mo0kmzsp-u59zpjew0</odeBlockId>
+          <odeIdeviceId>idevice-mo0kmzsp-ydw02fr1c</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Hola, chicos y chicas<br />En este proyecto hemos organizado nuestras actividades de forma que cada una nos ayude a aprender algo nuevo sobre el Antiguo Egipto. </p>
+<p>Este es nuestro plan para aprender jugando:</p>
+<ul>
+<li>Vamos a dibujar pirámides, faraones y jeroglíficos.</li>
+<li>Haremos juegos en la tablet sobre Egipto.</li>
+<li>Crearemos una nube de palabras mágica con lo que hemos aprendido.</li>
+<li>Usaremos el ordenador para hacer un libro digital con dibujos y voz.</li>
+<li>Jugaremos a un quiz de preguntas con Kahoot para demostrar lo que sabemos.<br /> ¡Y lo mejor de todo! Haremos muchas cosas en equipo. </li>
+</ul>
+<p><br /></p>
+<p><iframe width="100%" height="600" src="https://docs.google.com/document/d/1LP6X3Jp_w6tlQFR8DiQiA8sX-PhALH82hv4EkYnip5E/preview" allow="autoplay"></iframe></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mo0kmzsp-ydw02fr1c","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Hola, chicos y chicas<br />En este proyecto hemos organizado nuestras actividades de forma que cada una nos ayude a aprender algo nuevo sobre el Antiguo Egipto. </p>\n<p>Este es nuestro plan para aprender jugando:</p>\n<ul>\n<li>Vamos a dibujar pirámides, faraones y jeroglíficos.</li>\n<li>Haremos juegos en la tablet sobre Egipto.</li>\n<li>Crearemos una nube de palabras mágica con lo que hemos aprendido.</li>\n<li>Usaremos el ordenador para hacer un libro digital con dibujos y voz.</li>\n<li>Jugaremos a un quiz de preguntas con Kahoot para demostrar lo que sabemos.<br /> ¡Y lo mejor de todo! Haremos muchas cosas en equipo. </li>\n</ul>\n<p><br /></p>\n<p><iframe width=\"100%\" height=\"600\" src=\"https://docs.google.com/document/d/1LP6X3Jp_w6tlQFR8DiQiA8sX-PhALH82hv4EkYnip5E/preview\" allow=\"autoplay\"></iframe></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo1tz52i-fdaz8vda5</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>LINEA TEMPORAL</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>LINEA TEMPORAL</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>LINEA TEMPORAL</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo1tz52i-fdaz8vda5</odePageId>
+      <odeBlockId>block-mo0kmzsp-n6otzw3g0</odeBlockId>
+      <blockName>🗓️ Nuestra línea del tiempo mágica</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo1tz52i-fdaz8vda5</odePageId>
+          <odeBlockId>block-mo0kmzsp-n6otzw3g0</odeBlockId>
+          <odeIdeviceId>idevice-mo0kmzsp-ef0iiwmky</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">¡Hola exploradores!<br />Durante estas semanas, haremos un montón de actividades para aprender sobre el Antiguo Egipto. Cada una tiene su momento especial, como si fuera una aventura en el tiempo.</p>
+<p style="text-align: justify;">¿Quieres ver todo lo que vamos a hacer?</p>
+<p style="text-align: justify;"> ¡Mira nuestra línea mágica del tiempo! Ahí verás cuándo veremos vídeos, cuándo jugaremos, cuándo construiremos pirámides y cuándo haremos la fiesta final. </p>
+<div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;"><iframe width="300" height="150" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;" loading="lazy" src="https://www.canva.com/design/DAGlWpc6G8A/xhGtKKtki8OcwjE6sWGAHQ/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+  </iframe></div>
+<p><a href="https://www.canva.com/design/DAGlWpc6G8A/xhGtKKtki8OcwjE6sWGAHQ/view?utm_content=DAGlWpc6G8A&utm_campaign=designshare&utm_medium=embeds&utm_source=link" target="_blank" rel="noopener">Presentación de Gráficos Visuales Mapas Conceptuales para Brainstorming Doodle Creativo Multicolor</a> de Cristina Navarro</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mo0kmzsp-ef0iiwmky","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">¡Hola exploradores!<br />Durante estas semanas, haremos un montón de actividades para aprender sobre el Antiguo Egipto. Cada una tiene su momento especial, como si fuera una aventura en el tiempo.</p>\n<p style=\"text-align: justify;\">¿Quieres ver todo lo que vamos a hacer?</p>\n<p style=\"text-align: justify;\"> ¡Mira nuestra línea mágica del tiempo! Ahí verás cuándo veremos vídeos, cuándo jugaremos, cuándo construiremos pirámides y cuándo haremos la fiesta final. </p>\n<div style=\"position: relative; width: 100%; height: 0; padding-top: 56.2500%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;\"><iframe width=\"300\" height=\"150\" style=\"position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;\" loading=\"lazy\" src=\"https://www.canva.com/design/DAGlWpc6G8A/xhGtKKtki8OcwjE6sWGAHQ/view?embed\" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\">\n  </iframe></div>\n<p><a href=\"https://www.canva.com/design/DAGlWpc6G8A/xhGtKKtki8OcwjE6sWGAHQ/view?utm_content=DAGlWpc6G8A&utm_campaign=designshare&utm_medium=embeds&utm_source=link\" target=\"_blank\" rel=\"noopener\">Presentación de Gráficos Visuales Mapas Conceptuales para Brainstorming Doodle Creativo Multicolor</a> de Cristina Navarro</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo1tz52j-bh8fcowsq</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>SECUENCIA DIDÁCTICA</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>SECUENCIA DIDÁCTICA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>SECUENCIA DIDÁCTICA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo1tz52j-bh8fcowsq</odePageId>
+      <odeBlockId>block-mo0kmzsp-xafh8s29m</odeBlockId>
+      <blockName>🏺 Nuestras aventuras en el Antiguo Egipto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo1tz52j-bh8fcowsq</odePageId>
+          <odeBlockId>block-mo0kmzsp-xafh8s29m</odeBlockId>
+          <odeIdeviceId>idevice-mo0kmzsp-it6w9pjao</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p>¡Hola, pequeños exploradores!<br />Esta semana vamos a viajar con la imaginación hasta el Antiguo Egipto, ¡la tierra de las pirámides y los faraones!<br />Haremos muchas actividades para aprender, jugar, pensar y crear.</p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p>¡Hola, pequeños exploradores!<br />Esta semana vamos a viajar con la imaginación hasta el Antiguo Egipto, ¡la tierra de las pirámides y los faraones!<br />Haremos muchas actividades para aprender, jugar, pensar y crear.</p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo1tz52j-58rtdh0mv</odePageId>
+  <odeParentPageId>page-mo1tz52j-bh8fcowsq</odeParentPageId>
+  <pageName>Actividad 1: ¡Descubre Egipto!</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividad 1: ¡Descubre Egipto!</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividad 1: ¡Descubre Egipto!</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo1tz52j-58rtdh0mv</odePageId>
+      <odeBlockId>block-mo0kmzsp-m4tk52q5p</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo1tz52j-58rtdh0mv</odePageId>
+          <odeBlockId>block-mo0kmzsp-m4tk52q5p</odeBlockId>
+          <odeIdeviceId>idevice-mo0kmzsp-fufcoop6j</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p>Veremos un vídeo corto con imágenes y sonidos de Egipto: pirámides, esfinges, faraones y muchas cosas curiosas. Lo veremos en la pizarra digital grande, todos juntos.</p>
+<p> Recurso digital:<span style="font-size: 16.8px;">🎥</span></p>
+<p><span style="font-size: 16.8px;"><iframe width="100%" height="480" src="https://www.youtube.com/embed/eb9hN06QL3E" frameborder="0" allowfullscreen="allowfullscreen"></iframe> </span></p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p>Veremos un vídeo corto con imágenes y sonidos de Egipto: pirámides, esfinges, faraones y muchas cosas curiosas. Lo veremos en la pizarra digital grande, todos juntos.</p>\n<p> Recurso digital:<span style=\"font-size: 16.8px;\">🎥</span></p>\n<p><span style=\"font-size: 16.8px;\"><iframe width=\"100%\" height=\"480\" src=\"https://www.youtube.com/embed/eb9hN06QL3E\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe> </span></p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo1tz52k-ns3s27ilj</odePageId>
+  <odeParentPageId>page-mo1tz52j-bh8fcowsq</odeParentPageId>
+  <pageName>Actividad 2: ¡Jugamos con el ordenador!</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividad 2: ¡Jugamos con el ordenador!</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividad 2: ¡Jugamos con el ordenador!</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo1tz52k-ns3s27ilj</odePageId>
+      <odeBlockId>block-mo0kmzsp-vgzuucbhr</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo1tz52k-ns3s27ilj</odePageId>
+          <odeBlockId>block-mo0kmzsp-vgzuucbhr</odeBlockId>
+          <odeIdeviceId>idevice-mo0kmzsp-wmtgyyobr</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p>Usaremos la aplicación “Palomitas de Maíz” en la pizarra digital. Arrastraremos imágenes y jugaremos con los símbolos egipcios.</p>
+<p>También haremos clic en juegos y actividades de Egipto en el rincón digital.</p>
+<p><iframe width="100%" height="600" style="border: none;" src="https://edistribucion.es/algaida/jjddii2022/mmmpalomitas5/" allowfullscreen="allowfullscreen"></iframe></p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p>Usaremos la aplicación “Palomitas de Maíz” en la pizarra digital. Arrastraremos imágenes y jugaremos con los símbolos egipcios.</p>\n<p>También haremos clic en juegos y actividades de Egipto en el rincón digital.</p>\n<p><iframe width=\"100%\" height=\"600\" style=\"border: none;\" src=\"https://edistribucion.es/algaida/jjddii2022/mmmpalomitas5/\" allowfullscreen=\"allowfullscreen\"></iframe></p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo1tz52k-jftbj5f34</odePageId>
+  <odeParentPageId>page-mo1tz52j-bh8fcowsq</odeParentPageId>
+  <pageName>Actividad 3: ¡Construimos una pirámide!</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividad 3: ¡Construimos una pirámide!</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividad 3: ¡Construimos una pirámide!</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo1tz52k-jftbj5f34</odePageId>
+      <odeBlockId>block-mo0kmzsq-drixursui</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo1tz52k-jftbj5f34</odePageId>
+          <odeBlockId>block-mo0kmzsq-drixursui</odeBlockId>
+          <odeIdeviceId>idevice-mo0kmzsq-zroqcolwf</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p>Por equipos, construiremos una pirámide con bloques, cartulina y pegatinas. Decidiremos juntos qué poner: ¿una esfinge? ¿un faraón?<br />Luego, cada grupo presentará su pirámide al resto de la clase.</p>
+<p>Después diremos en voz alta qué pusimos en la pirámide y qué aprendimos. Con esas palabras haremos entre todos una nube de palabras en WordArt.</p>
+<p>¡Vamos a crear nuestra nube de palabras mágica sobre Egipto! Haz clic en el botón para entrar en WordArt y comenzar.</p>
+<p><a href="https://wordart.com/drlj8dbmrfwo/espa%C3%B1ol">✨ Ir a WordArt</a></p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p>Por equipos, construiremos una pirámide con bloques, cartulina y pegatinas. Decidiremos juntos qué poner: ¿una esfinge? ¿un faraón?<br />Luego, cada grupo presentará su pirámide al resto de la clase.</p>\n<p>Después diremos en voz alta qué pusimos en la pirámide y qué aprendimos. Con esas palabras haremos entre todos una nube de palabras en WordArt.</p>\n<p>¡Vamos a crear nuestra nube de palabras mágica sobre Egipto! Haz clic en el botón para entrar en WordArt y comenzar.</p>\n<p><a href=\"https://wordart.com/drlj8dbmrfwo/espa%C3%B1ol\">✨ Ir a WordArt</a></p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo1tz52l-dhovg5li7</odePageId>
+  <odeParentPageId>page-mo1tz52j-bh8fcowsq</odeParentPageId>
+  <pageName>Actividad 4: ¡Escribimos como los egipcios!</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividad 4: ¡Escribimos como los egipcios!</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividad 4: ¡Escribimos como los egipcios!</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo1tz52l-dhovg5li7</odePageId>
+      <odeBlockId>block-mo0kmzsq-73bmg9780</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo1tz52l-dhovg5li7</odePageId>
+          <odeBlockId>block-mo0kmzsq-73bmg9780</odeBlockId>
+          <odeIdeviceId>idevice-mo0kmzsq-tfhk6ag0r</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Veremos los jeroglíficos y escribiremos nuestro nombre como los antiguos egipcios. Lo haremos sobre un "papiro" de cartulina. También vamos a jugar a crear palabras con jeroglíficos. Pincha en el siguiente jeroglífico: </p>
+<p><a href="https://www.liveworksheets.com/es/w/es/educacion-infantil/698233"><img src="{{context_path}}/content/resources/unnamed.gif" alt="jeroglifico" title="jeroglifico" width="100" height="59" /></a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mo0kmzsq-tfhk6ag0r","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Veremos los jeroglíficos y escribiremos nuestro nombre como los antiguos egipcios. Lo haremos sobre un \"papiro\" de cartulina. También vamos a jugar a crear palabras con jeroglíficos. Pincha en el siguiente jeroglífico: </p>\n<p><a href=\"https://www.liveworksheets.com/es/w/es/educacion-infantil/698233\"><img src=\"{{context_path}}/content/resources/unnamed.gif\" alt=\"jeroglifico\" title=\"jeroglifico\" width=\"100\" height=\"59\" /></a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo1tz52l-pdd2d4hz2</odePageId>
+  <odeParentPageId>page-mo1tz52j-bh8fcowsq</odeParentPageId>
+  <pageName>Actividad final: ¡Teatro egipcio!</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividad final: ¡Teatro egipcio!</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividad final: ¡Teatro egipcio!</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo1tz52l-pdd2d4hz2</odePageId>
+      <odeBlockId>block-mo0kmzsq-55rgnx2k0</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo1tz52l-pdd2d4hz2</odePageId>
+          <odeBlockId>block-mo0kmzsq-55rgnx2k0</odeBlockId>
+          <odeIdeviceId>idevice-mo0kmzsq-u06gmtbzj</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p></p>
+<p><img src="{{context_path}}/content/resources/R.jpeg" alt="teatro egipto" title="teatro egipto" width="500" height="354" style="font-size: 1.05em; display: block; margin-left: auto; margin-right: auto;" /></p>
+<p></p>
+<p></p>
+<p>Nos disfrazaremos de faraones, momias, exploradores y co<span style="font-size: 1.05em;">ntaremos una pequeña historia en vídeo para compartirla con nuestras familias.</span></p>
+<p>Veremos entre todos el vídeo. Cada niño contará qué aprendió y qué le gustó más del proyecto.</p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p></p>\n<p><img src=\"{{context_path}}/content/resources/R.jpeg\" alt=\"teatro egipto\" title=\"teatro egipto\" width=\"500\" height=\"354\" style=\"font-size: 1.05em; display: block; margin-left: auto; margin-right: auto;\" /></p>\n<p></p>\n<p></p>\n<p>Nos disfrazaremos de faraones, momias, exploradores y co<span style=\"font-size: 1.05em;\">ntaremos una pequeña historia en vídeo para compartirla con nuestras familias.</span></p>\n<p>Veremos entre todos el vídeo. Cada niño contará qué aprendió y qué le gustó más del proyecto.</p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo1tz52m-u66glajod</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>EVALUACIÓN </pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>EVALUACIÓN </value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>EVALUACIÓN </value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo1tz52m-u66glajod</odePageId>
+      <odeBlockId>block-mo0kmzsq-i42fqejfk</odeBlockId>
+      <blockName>🏆 ¿Cómo sabemos que hemos aprendido?</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo1tz52m-u66glajod</odePageId>
+          <odeBlockId>block-mo0kmzsq-i42fqejfk</odeBlockId>
+          <odeIdeviceId>idevice-mo0kmzsq-dfwllj63l</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>¡Hola, peques!<br />Después de jugar, investigar y crear sobre Egipto, vamos a pensar juntos todo lo que hemos aprendido.<br />No es un examen ni hay que estar nerviosos… solo vamos a ver cuánto sabemos ya. ¡Y seguro que es un montón! </p>
+<p>Vamos a mirar un cuadro mágico que nos dice si:</p>
+<p>✅ Lo hemos conseguido<br />🔄 Estamos en ello<br />🕒 Aún no lo hemos empezado (pero pronto lo haremos)</p>
+<p><br /></p>
+<p><iframe width="100%" height="600" src="https://docs.google.com/document/d/1s7WUYbAksxW5IG95xrb7II34gHK6PWom/preview" allow="autoplay"></iframe>                                                         </p>
+<p>                  <iframe width="100%" height="800" src="https://docs.google.com/forms/d/e/1FAIpQLSfzIAcHPA__mjmH4wmLxzbDDaRCWhHvXKQ4Tpu4Gxq-SCbMIg/viewform?embedded=true" frameborder="0" marginheight="0" marginwidth="0">Cargando…</iframe></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mo0kmzsq-dfwllj63l","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>¡Hola, peques!<br />Después de jugar, investigar y crear sobre Egipto, vamos a pensar juntos todo lo que hemos aprendido.<br />No es un examen ni hay que estar nerviosos… solo vamos a ver cuánto sabemos ya. ¡Y seguro que es un montón! </p>\n<p>Vamos a mirar un cuadro mágico que nos dice si:</p>\n<p>✅ Lo hemos conseguido<br />🔄 Estamos en ello<br />🕒 Aún no lo hemos empezado (pero pronto lo haremos)</p>\n<p><br /></p>\n<p><iframe width=\"100%\" height=\"600\" src=\"https://docs.google.com/document/d/1s7WUYbAksxW5IG95xrb7II34gHK6PWom/preview\" allow=\"autoplay\"></iframe>                                                         </p>\n<p>                  <iframe width=\"100%\" height=\"800\" src=\"https://docs.google.com/forms/d/e/1FAIpQLSfzIAcHPA__mjmH4wmLxzbDDaRCWhHvXKQ4Tpu4Gxq-SCbMIg/viewform?embedded=true\" frameborder=\"0\" marginheight=\"0\" marginwidth=\"0\">Cargando…</iframe></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo1tz52m-qvw3wvdkc</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>CRÉDITOS</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CRÉDITOS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CRÉDITOS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo1tz52m-qvw3wvdkc</odePageId>
+      <odeBlockId>block-mo0kmzsq-8x3ty0mr3</odeBlockId>
+      <blockName>📝 Créditos</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo1tz52m-qvw3wvdkc</odePageId>
+          <odeBlockId>block-mo0kmzsq-8x3ty0mr3</odeBlockId>
+          <odeIdeviceId>idevice-mo0kmzsq-u1stb11vc</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Autora del proyecto: Cristina Navarro Collazos</p>
+<p style="text-align: justify;">Descripción del recurso:<br />Este recurso ha sido creado como parte del curso B2 de Competencia Digital Educativa de la Junta de Andalucía. Está diseñado para acercar el Antiguo Egipto a los niños y niñas de 5 años a través de actividades interactivas, vídeos, juegos, herramientas digitales y secuencias didácticas adaptadas a su nivel de desarrollo.</p>
+<p>Licencia de uso:<br />Este recurso está publicado bajo la licencia Creative Commons Reconocimiento – No Comercial – Compartir Igual (CC BY-NC-SA 4.0).</p>
+<p>Herramientas utilizadas: eXeLearning, Canva, Google Drive, Symbaloo, Padlet, WordArt, LiveWorksheets, YouTube, entre otras plataformas digitales educativas.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mo0kmzsq-u1stb11vc","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Autora del proyecto: Cristina Navarro Collazos</p>\n<p style=\"text-align: justify;\">Descripción del recurso:<br />Este recurso ha sido creado como parte del curso B2 de Competencia Digital Educativa de la Junta de Andalucía. Está diseñado para acercar el Antiguo Egipto a los niños y niñas de 5 años a través de actividades interactivas, vídeos, juegos, herramientas digitales y secuencias didácticas adaptadas a su nivel de desarrollo.</p>\n<p>Licencia de uso:<br />Este recurso está publicado bajo la licencia Creative Commons Reconocimiento – No Comercial – Compartir Igual (CC BY-NC-SA 4.0).</p>\n<p>Herramientas utilizadas: eXeLearning, Canva, Google Drive, Symbaloo, Padlet, WordArt, LiveWorksheets, YouTube, entre otras plataformas digitales educativas.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mo1tz52m-qvw3wvdkc</odePageId>
+      <odeBlockId>block-mo0kmzsq-uzqo6dv2s</odeBlockId>
+      <blockName>Descargar archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo1tz52m-qvw3wvdkc</odePageId>
+          <odeBlockId>block-mo0kmzsq-uzqo6dv2s</odeBlockId>
+          <odeIdeviceId>idevice-mo0kmzsq-971vdhdm0</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td>UN VIAJE POR EL ANTIGUO EGIPTO</td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td>Acercar el Antiguo Egipto a los niños y niñas de 5 años a través de actividades interactivas, vídeos, juegos, herramientas digitales y secuencias didácticas adaptadas a su nivel de desarrollo.</td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td>CRISTINA NAVARRO COLLAZOS</td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td><a href="https://creativecommons.org/licenses/by-sa/4.0/" rel="license" class="cc cc-by-sa"><span></span>Creative Commons BY-SA 4.0</a></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="http://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#56ff56;color:#000000;">Descargar el fichero .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
